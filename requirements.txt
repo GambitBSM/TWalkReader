@@ -1,0 +1,5 @@
+arviz
+corner
+h5py
+matplotlib
+numpy
